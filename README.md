@@ -49,4 +49,6 @@ docker-compose --env-file .env.dev up --build
 
 ## 📝 License
 
+This is free and unencumbered software released into the public domain. See [LICENSE](LICENSE) for details.
+
 This project is a study case for learning modern web development practices.
