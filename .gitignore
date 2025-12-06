@@ -15,11 +15,14 @@ build/
 *.log
 db.sqlite3
 db.sqlite3-journal
+staticfiles/
 /staticfiles/
-/mediafiles/
+backend/staticfiles/
+mediafiles/
 *.pot
 *.pyc
 local_settings.py
+
 
 # Environment variables
 .env
