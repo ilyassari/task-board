@@ -25,7 +25,6 @@ local_settings.py
 
 
 # Environment variables
-.env
 .env.dev
 .env.prod
 
